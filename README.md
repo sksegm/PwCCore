@@ -13,4 +13,4 @@ Here is a short description of how to create workpapers with Core:
 5) We are guided through the process of validating, balancing and anotating the data.
 6) We use the wizard until we  reach the page "Filer til Aura"
 7) Finally we select the workpapers we want and click "Dan filer til Aura".
-8) If we need more workpapers, we click the menu "Filer til Aura" and select them; then we click "Dan filer til Aura".
+8) If we need more workpapers, we click the menu "Filer til Aura" and repeat step 7.
