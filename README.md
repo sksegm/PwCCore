@@ -4,7 +4,7 @@ Core creates workpapers based on Caseware and Customer data.
 
 The data consists of financial entries and may span up to 6 financial periods, the year in question, next year and up to 4 years back.
 
-When we use Core, we are guided through the process of validating, balancing and anotating the data. Here is a short description of how to create workpapers with Core:
+When we use Core, we are guided through the process of validating, balancing and annotating the data. Here is a short description of how to create workpapers with Core:
 
 1) First we open the Core workbook.
 2) If the page "Start Core" is not shown, then we navigate back until we see the "Start Forfra" menu; then we click the menu.
