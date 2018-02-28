@@ -12,4 +12,4 @@ When we use Core, we are guided through the process of validating, balancing and
 4) We select the caseware and customer data to import.
 5) We use the wizard until we  reach the page "Filer til Aura"
 6) Finally we select the workpapers we want and click "Dan filer til Aura".
-7) If we need more workpapers, we click the menu "Filer til Aura" and repeat step 7.
+7) If we need more workpapers, we click the menu "Filer til Aura" and repeat step 6.
