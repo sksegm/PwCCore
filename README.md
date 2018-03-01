@@ -2,7 +2,7 @@
 
 Core creates workpapers based on Caseware and Customer data.
 
-The data consists of financial entries and may span up to 6 financial periods, the year in question, next year and up to 4 years back.
+The data consists of financial entries and may span up to 6 financial periods, the year in audit, next year and up to 4 years back.
 
 When we use Core, we are guided through the process of validating, balancing and annotating the data. Here is a short description of how to create workpapers with Core:
 
